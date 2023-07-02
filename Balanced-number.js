@@ -22,3 +22,7 @@ Example:
     sum of all digits to the right of the middle digit(s) -> 0
     0 and 0 are equal, so it's balanced.
 */
+
+
+// Solution
+
